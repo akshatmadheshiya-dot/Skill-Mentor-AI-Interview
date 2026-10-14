@@ -45,7 +45,7 @@ Skill Mentor is a Flask-based interview preparation platform that uses AI-powere
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/kajaresahil05/Skill-Mentor-AI-Interview.git
+git clone https://github.com/akshatmadheshiya-dot/Skill-Mentor-AI-Interview.git
 cd Skill_Mentor
 ```
 
